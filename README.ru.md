@@ -2,6 +2,8 @@
 
 ## Автоматическая сборка прошивки Padavan на серверах GitHub
 
+[Гайд](https://github.com/Anonym-tsk/nfqws-keenetic/discussions/76?) по установке
+
 ### Использование
 
 - [Форкните репозиторий](https://github.com/shvchk/padavan-builder-workflow/fork), дальнейшие шаги выполняйте в своём форке
