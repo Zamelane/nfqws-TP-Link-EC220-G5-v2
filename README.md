@@ -2,6 +2,8 @@
 
 ## Automatic Padavan firmware builds using GitHub servers
 
+[Guide](https://github.com/Anonym-tsk/nfqws-keenetic/discussions/76?) for installing
+
 ### Usage
 
 - [Fork this repository](https://github.com/shvchk/padavan-builder-workflow/fork), further steps should be performed in your fork
